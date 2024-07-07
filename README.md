@@ -5,6 +5,6 @@ Generación y comprobación de números psudoaleatorios usando python
 python -m pip install scipy
 ~~~
 
-##Inf
+## Inf
 - Asignatura de modelos matemáticos
 - Anderson Freire
