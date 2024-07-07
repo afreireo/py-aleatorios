@@ -4,3 +4,7 @@ Generación y comprobación de números psudoaleatorios usando python
 ~~~Bash
 python -m pip install scipy
 ~~~
+
+##Inf
+- Asignatura de modelos matemáticos
+- Anderson Freire
