@@ -1,6 +1,6 @@
 # py-aleatorios
 Generación y comprobación de números psudoaleatorios usando python
-Dependencias:
+## Dependencias:
 ~~~Bash
 python -m pip install scipy
 ~~~
